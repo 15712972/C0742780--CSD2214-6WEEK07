@@ -16,7 +16,7 @@ var bear ={
     callType = "roar",
     quote : "",
     maxOffspring = 3,
-    noisy : true,
+    noisy : false,
     deadly : true
 
 };
